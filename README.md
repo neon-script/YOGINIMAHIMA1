@@ -30,7 +30,7 @@
 <i>&nbsp; <h2><u><b>Building products with open source.<u><b></i><br><br></h2>
 
  👨‍🎓 Master of Computer Applications (MCA) Student <br>
-I am a dedicated second-year MCA student with a strong foundation in computer science principles, passionate about software development and system design. Through my studies, I have gained skills in programming, data structures, algorithms, and network systems, particularly interested in real-time communication and network programming. My academic journey is driven by a desire to tackle complex problems and explore innovative solutions.
+I am Experienced Professional with a strong foundation in computer science principles, passionate about software development and system design. Through my studies, I have gained skills in programming, data structures, algorithms, and network systems, particularly interested in real-time communication and network programming. My academic journey is driven by a desire to tackle complex problems and explore innovative solutions.
 
 💼 Professional Experience at Wipro and PeopleStrong <br>
 As a trainee at Wipro, I worked on projects such as network file sharing and inter-process communication (IPC) frameworks, applying C++, Linux system programming, and socket programming. I developed a secure client-server application, enhancing data transfer and user authentication processes. Additionally, my role as an Application Support Trainee at PeopleStrong involved troubleshooting CRM systems, utilizing SQL to analyze and resolve multi-tenant issues, and enhancing product performance through cross-functional collaboration.
@@ -201,7 +201,7 @@ You can check the workflows here: (.github/workflows)
 <!--- -- GitHub Stats ------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-| ![Mahima Bhardwaj github stats](https://github-readme-stats.vercel.app/api?username=YOGINIMAHIMA1\&rank_icon=percentile&show_icons=true&theme=tokyonight&show=reviews&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A0209&border_radius=8) | ![Mahima Bhardwaj GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOGINIMAHIMA1&theme=tokyonight&theme=icegray&border_radius=8) |
+| ![Mahima Bhardwaj github stats](https://github-readme-stats.vercel.app/api?username=neon-script\&rank_icon=percentile&show_icons=true&theme=tokyonight&show=reviews&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A0209&border_radius=8) | ![Mahima Bhardwaj GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOGINIMAHIMA1&theme=tokyonight&theme=icegray&border_radius=8) |
 | -- | -- |
 
 <hr>
